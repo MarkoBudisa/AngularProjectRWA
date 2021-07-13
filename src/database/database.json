@@ -1,0 +1,238 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "team1": {
+        "id": "italy",
+        "name": "Italy",
+        "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png"
+      },
+      "team2": {
+        "id": "ukrain",
+        "name": "Ukrain",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/35px-Flag_of_Ukraine.svg.png"
+      },
+      "stadium": "Puskas Arena",
+      "capacity": 65000,
+      "ticketsSaled": 10,
+      "ticketPrace": 45
+    },
+    {
+      "id": 2,
+      "team1": {
+        "id": "croatia",
+        "name": "Croatia",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/35px-Flag_of_Croatia.svg.png"
+      },
+      "team2": {
+        "id": "england",
+        "name": "England",
+        "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/35px-Flag_of_England.svg.png"
+      },
+      "stadium": "Aviva Stadium",
+      "capacity": 36000,
+      "ticketsSaled": 6,
+      "ticketPrace": 50
+    },
+    {
+      "id": 3,
+      "team1": {
+        "id": "germany",
+        "name": "Germany",
+        "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png"
+      },
+      "team2": {
+        "id": "spain",
+        "name": "Spain",
+        "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png"
+      },
+      "stadium": "Amsterdam Arena",
+      "capacity": 47000,
+      "ticketsSaled": 12,
+      "ticketPrace": 55
+    },
+    {
+      "id": 4,
+      "team1": {
+        "id": "france",
+        "name": "France",
+        "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png"
+      },
+      "team2": {
+        "id": "denmark",
+        "name": "Denmark",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/31px-Flag_of_Denmark.svg.png"
+      },
+      "stadium": "Saint Petersburg Stadium",
+      "capacity": 55000,
+      "ticketsSaled": 10,
+      "ticketPrace": 45
+    },
+    {
+      "id": 5,
+      "team1": {
+        "id": "portugal",
+        "name": "Portugal",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/35px-Flag_of_Portugal.svg.png"
+      },
+      "team2": {
+        "id": "austria",
+        "name": "Austria",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png"
+      },
+      "stadium": "Parken Stadium",
+      "capacity": 40000,
+      "ticketsSaled": 0,
+      "ticketPrace": 30
+    },
+    {
+      "id": 6,
+      "team1": {
+        "id": "france",
+        "name": "France",
+        "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png"
+      },
+      "team2": {
+        "id": "ukrain",
+        "name": "Ukrain",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/35px-Flag_of_Ukraine.svg.png"
+      },
+      "stadium": "Stadio Olimpico",
+      "capacity": 63000,
+      "ticketsSaled": 0,
+      "ticketPrace": 65
+    },
+    {
+      "id": 7,
+      "team1": {
+        "id": "croatia",
+        "name": "Croatia",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/35px-Flag_of_Croatia.svg.png"
+      },
+      "team2": {
+        "id": "germany",
+        "name": "Germany",
+        "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png"
+      },
+      "stadium": "Hampden Park",
+      "capacity": 45000,
+      "ticketsSaled": 0,
+      "ticketPrace": 35
+    },
+    {
+      "id": 8,
+      "team1": {
+        "id": "england",
+        "name": "England",
+        "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/35px-Flag_of_England.svg.png"
+      },
+      "team2": {
+        "id": "italy",
+        "name": "Italy",
+        "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png"
+      },
+      "stadium": "Wembley Stadium",
+      "capacity": 65000,
+      "ticketsSaled": 5,
+      "ticketPrace": 40
+    }
+  ],
+  "hotels": [
+    {
+      "id": 1,
+      "name": "Danubis Hotel Helia-Budapest",
+      "location": "13.Andalfeld - Margitsiget",
+      "numberOfStars": 5,
+      "oneNightPrice": 80,
+      "distanceFromStadium": 3,
+      "picture": "https://www.danubiushotels.com/w/accomms/0_1000/0/any/DJI_0076-maxi425.jpg",
+      "numberOfRoomsBooked": 0,
+      "numberOfRooms": 100,
+      "pictureOfRoom": "https://www.gannett-cdn.com/-mm-/05b227ad5b8ad4e9dcb53af4f31d7fbdb7fa901b/c=0-64-2119-1259/local/-/media/USATODAY/USATODAY/2014/08/13/1407953244000-177513283.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Maldron Hotel Parnell Square-Dublin",
+      "location": "Parnell Square 1",
+      "numberOfStars": 4,
+      "oneNightPrice": 95,
+      "distanceFromStadium": 3,
+      "picture": "https://pix10.agoda.net/hotelImages/892/89261/89261_16072715210044986753.jpg?s=1024x768",
+      "numberOfRoomsBooked": 2,
+      "numberOfRooms": 100,
+      "pictureOfRoom": "https://i.pinimg.com/originals/30/6a/f3/306af3bc7c6ab631736ee2a660f28a3f.jpg"
+    },
+    {
+      "id": 3,
+      "name": "New Century Hotel-Amsterdam",
+      "location": "Osdorp 11",
+      "numberOfStars": 5,
+      "oneNightPrice": 60,
+      "distanceFromStadium": 2,
+      "picture": "https://media-cdn.tripadvisor.com/media/photo-s/17/0c/34/5a/new-century-hotel.jpg",
+      "numberOfRoomsBooked": 2,
+      "numberOfRooms": 100,
+      "pictureOfRoom": "https://upload.wikimedia.org/wikipedia/commons/5/56/Hotel-room-renaissance-columbus-ohio.jpg"
+    },
+    {
+      "id": 4,
+      "name": "AZIMUT Hotel Saint-Petersburg",
+      "location": "Admiralteyskiy 1",
+      "numberOfStars": 3,
+      "oneNightPrice": 40,
+      "distanceFromStadium": 4,
+      "picture": "https://lh3.googleusercontent.com/proxy/KTrwvSfuioMKrGYL65Fx1jfoIaeLnKnrjeViPjfW7ICc6nBiZFCEqp4x7OB7b3-o7B8DSBOgZGUQQLupwBtgfDE9FoDg8zcML0MQAwNptxA0-fH-pbRKXlBHQuG0tQs4Qo0Z8m1dpwoOE3a71FDztTTSi2R-G0-l9fqoFkVOVQ",
+      "numberOfRoomsBooked": 0,
+      "numberOfRooms": 100,
+      "pictureOfRoom": "https://pix10.agoda.net/hotelImages/5817296/0/835eb8b2bf5880a4e9dc3e5bb7f0669e.jpg?s=1024x768"
+    },
+    {
+      "id": 5,
+      "name": "Tivoli Hotel Center-Copenhagen",
+      "location": "Copenhagen Centre",
+      "numberOfStars": 5,
+      "oneNightPrice": 110,
+      "distanceFromStadium": 1,
+      "picture": "https://media-cdn.tripadvisor.com/media/photo-s/1d/13/b0/da/tivoli-hotel-by-night.jpg",
+      "numberOfRoomsBooked": 0,
+      "numberOfRooms": 100,
+      "pictureOfRoom": "https://hotelmanager.rs/wp-content/uploads/2020/04/hotel-room-1447201_1920.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Hotel Giolli Nazionale-Rome",
+      "location": "Central Station of Rome",
+      "numberOfStars": 4,
+      "oneNightPrice": 50,
+      "distanceFromStadium": 2,
+      "picture": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/17/14/17146_v13.jpeg",
+      "numberOfRoomsBooked": 1,
+      "numberOfRooms": 100,
+      "pictureOfRoom": "https://images2.minutemediacdn.com/image/upload/c_crop,h_1191,w_2121,x_0,y_223/f_auto,q_auto,w_1100/v1555272928/shape/mentalfloss/50569-istock-486178472.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Alexander Thomson Hotel-Glasgow",
+      "location": "Glasgow City Center",
+      "numberOfStars": 4,
+      "oneNightPrice": 40,
+      "distanceFromStadium": 4,
+      "picture": "https://d1g2eaybcum06n.cloudfront.net/establishment/mdawmda2otywmgss/mtm3mzq4ndewnjgs.jpg",
+      "numberOfRoomsBooked": 0,
+      "numberOfRooms": 100,
+      "pictureOfRoom": "https://pix10.agoda.net/hotelImages/5668227/0/7542736b26b0676a0e9e3c4aab831241.jpg?s=1024x768"
+    },
+    {
+      "id": 8,
+      "name": "Leonardo Royal London Tower Hotel-London",
+      "location": "Whitechapel 1",
+      "numberOfStars": 6,
+      "oneNightPrice": 130,
+      "distanceFromStadium": 2,
+      "picture": "http://www.cfmedia.vfmleonardo.com/imageRepo/7/0/126/24/170/Leonardo_Royal_London_City_Exterior_Dusk_O.jpg",
+      "numberOfRoomsBooked": 0,
+      "numberOfRooms": 100,
+      "pictureOfRoom": "https://i.pinimg.com/originals/ee/4c/20/ee4c2087d7dc0aa9df1c50874458af16.jpg"
+    }
+  ]
+}

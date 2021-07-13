@@ -1,0 +1,3 @@
+<ul *ngFor="let hotel of hotels | async">
+    <app-hotel-details-list [hotel]="hotel" (onClick)="selectedHotel($event)"></app-hotel-details-list>
+</ul>

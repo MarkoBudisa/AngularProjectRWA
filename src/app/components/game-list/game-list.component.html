@@ -1,0 +1,3 @@
+<ul *ngFor="let game of games | async">
+    <app-game-details-list [game]="game" (onClick)="selectedGame($event)"></app-game-details-list>
+</ul>

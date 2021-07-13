@@ -1,0 +1,15 @@
+<div class="details" *ngIf="game">
+    <label class="stadium"> {{game.stadium}}</label>
+    <div class="game">
+        <img src="{{game.team1.flag}}" />
+        <label>{{game.team1.name}} - {{game.team2.name}}</label>
+        <img src="{{game.team2.flag}}" />
+    </div>
+    <label class="price">Price total: {{game.ticketPrace * numberOfTickets}} $</label>
+    <div>
+        <fa-icon (click)="decrease()" [icon]="minus"></fa-icon>
+        <label class="number-tickets">{{numberOfTickets}}</label>
+        <fa-icon (click)="increase()" [icon]="plus"></fa-icon>
+    </div>
+    <button (click)="buyTicket()">Buy!</button>
+</div>

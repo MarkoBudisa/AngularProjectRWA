@@ -1,0 +1,11 @@
+<div class="details" *ngIf="hotel">
+    <label class="name"> {{hotel.name}}</label>
+    <img src="{{hotel.pictureOfRoom}}" />
+    <label class="price">Price total: {{hotel.oneNightPrice * numberOfRooms}} $</label>
+    <div>
+        <fa-icon (click)="decrease()" [icon]="minus"></fa-icon>
+        <label class="number-tickets">{{numberOfRooms}}</label>
+        <fa-icon (click)="increase()" [icon]="plus"></fa-icon>
+    </div>
+    <button (click)="bookRoom()">Book!</button>
+</div>

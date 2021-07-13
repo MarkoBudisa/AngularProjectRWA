@@ -1,0 +1,12 @@
+<div class="details" *ngIf="game">
+    <label class="stadium"> {{game.stadium}}</label>
+    <div class="game">
+        <img src="{{game.team1.flag}}" />
+        <label>{{game.team1.name}} - {{game.team2.name}}</label>
+        <img src="{{game.team2.flag}}" />
+    </div>
+    <label class="capacity">Capacity: {{game.capacity}}</label>
+    <label class="price">Price: {{game.ticketPrace}} $</label>
+    <label class="tickets-left">Tickers left: {{game.capacity - game.ticketsSaled}}</label>
+    <button (click)="clicked()">Buy ticket now!</button>
+</div>
